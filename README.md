@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abelbancu/"><img src="https://img.shields.io/badge/LinkedIn-abelbancu-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=7cf5c5&labelColor=050507" alt="LinkedIn" /></a>
-  <a href="https://optivise.ai"><img src="https://img.shields.io/badge/CTO-Optivise-0a0a0a?style=for-the-badge&logo=rocket&logoColor=7cf5c5&labelColor=050507" alt="Optivise" /></a>
+  <a href="https://optivise.app"><img src="https://img.shields.io/badge/CTO-Optivise-0a0a0a?style=for-the-badge&logo=rocket&logoColor=7cf5c5&labelColor=050507" alt="Optivise" /></a>
   <img src="https://img.shields.io/badge/MSc_AI-Distinction-0a0a0a?style=for-the-badge&logo=graduation-cap&logoColor=7cf5c5&labelColor=050507" alt="MSc AI Distinction" />
   <img src="https://img.shields.io/badge/PhD-incoming_@_Kent-0a0a0a?style=for-the-badge&logo=flask&logoColor=7cf5c5&labelColor=050507" alt="PhD incoming" />
 </div>
@@ -37,7 +37,7 @@ My reward function this past year had two massive goals: **survive my thesis** a
 
 ## currently
 
-- 🛰 **CTO @ [Optivise](https://optivise.ai)** — trustworthy, low-hallucination AI for teams who can't afford to be wrong.
+- 🛰 **CTO @ [Optivise](https://optivise.app)** — trustworthy, low-hallucination AI for teams who can't afford to be wrong.
 - 🧪 **Research** — behaviour-first deep RL for robot navigation. PPO on Stable-Baselines3, Hyperion GPU cluster. Reward shaping that cares about *how* a policy moves, not just whether it reaches the goal.
 - 🎓 **PhD-bound at Kent** — picking up where the MSc left off: the agent solved the problem we specified, not the one we cared about. That gap is the thesis.
 - 🧩 **Paper** — contributor on [**PALMS**](https://arxiv.org/abs/2602.07519), a Rescorla-Wagner-style associative learning model.
@@ -135,24 +135,23 @@ My reward function this past year had two massive goals: **survive my thesis** a
 
 ---
 
-## the numbers
+## activity
 
 <div align="center">
 
 <a href="https://github.com/aeb56">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aeb56&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050507&title_color=7cf5c5&icon_color=7cf5c5&text_color=d4d4d8&ring_color=7cf5c5" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aeb56&bg_color=050507&color=7cf5c5&line=7cf5c5&point=b8ffde&area=true&area_color=7cf5c5&hide_border=true&custom_title=contributions%20over%20time" />
 </a>
+
+<br /><br />
+
 <a href="https://github.com/aeb56">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeb56&layout=compact&hide_border=true&bg_color=050507&title_color=7cf5c5&text_color=d4d4d8&langs_count=8&exclude_repo=parameter-golf" />
 </a>
 
-<br />
-
-<a href="https://github.com/aeb56">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeb56&hide_border=true&background=050507&stroke=7cf5c5&ring=7cf5c5&fire=b8ffde&currStreakLabel=7cf5c5&sideNums=d4d4d8&currStreakNum=7cf5c5&dates=d4d4d8&sideLabels=7cf5c5" />
-</a>
-
 </div>
+
+<sub align="center">↑ the line chart mirrors the real profile graph (including private contributions). numeric "commit count" cards from 3rd-party services can't see private repos, so they lie — I'd rather show nothing than undercount.</sub>
 
 ---
 
@@ -181,7 +180,7 @@ My reward function this past year had two massive goals: **survive my thesis** a
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abelbancu/"><img src="https://img.shields.io/badge/LinkedIn-connect-7cf5c5?style=for-the-badge&logo=linkedin&logoColor=050507&labelColor=050507" /></a>
-<a href="https://optivise.ai"><img src="https://img.shields.io/badge/Optivise-what_we're_building-7cf5c5?style=for-the-badge&logo=rocket&logoColor=050507&labelColor=050507" /></a>
+<a href="https://optivise.app"><img src="https://img.shields.io/badge/Optivise-what_we're_building-7cf5c5?style=for-the-badge&logo=rocket&logoColor=050507&labelColor=050507" /></a>
 <a href="https://arxiv.org/abs/2602.07519"><img src="https://img.shields.io/badge/arXiv-PALMS-7cf5c5?style=for-the-badge&logo=arxiv&logoColor=050507&labelColor=050507" /></a>
 
 </div>
