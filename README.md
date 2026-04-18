@@ -135,38 +135,6 @@ My reward function this past year had two massive goals: **survive my thesis** a
 
 ---
 
-## activity
-
-<div align="center">
-
-<a href="https://github.com/aeb56">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aeb56&bg_color=050507&color=7cf5c5&line=7cf5c5&point=b8ffde&area=true&area_color=7cf5c5&hide_border=true&custom_title=contributions%20over%20time" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/aeb56">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeb56&layout=compact&hide_border=true&bg_color=050507&title_color=7cf5c5&text_color=d4d4d8&langs_count=8&exclude_repo=parameter-golf" />
-</a>
-
-</div>
-
-<sub align="center">↑ the line chart mirrors the real profile graph (including private contributions). numeric "commit count" cards from 3rd-party services can't see private repos, so they lie — I'd rather show nothing than undercount.</sub>
-
----
-
-## contribution graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aeb56/aeb56/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aeb56/aeb56/output/github-snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/aeb56/aeb56/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
 ## what I care about
 
 - **Behaviour over benchmarks.** A policy that reaches the goal with a reward graph that looks great but moves like a drunk pigeon is not a solved problem.
